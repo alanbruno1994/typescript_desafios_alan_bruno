@@ -1,0 +1,17 @@
+{
+  "name": "curso_de_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.9",
+    "live-server": "^1.2.1",
+    "systemjs": "^0.21.5"
+  }
+}
